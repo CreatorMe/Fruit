@@ -9,8 +9,12 @@
 #import <Foundation/Foundation.h>
 #import "cocos2d.h"
 #import "PolygonSprite.h"
+<<<<<<< HEAD
 #import <iostream>
 
+=======
+#include “skjkjdkj”
+>>>>>>> FETCH_HEAD
 @interface Banana : PolygonSprite {
     
 }
